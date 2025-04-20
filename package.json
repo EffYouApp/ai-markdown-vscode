@@ -13,6 +13,10 @@
     "Formatters",
     "AI"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EffYouApp/ai-markdown-vscode"
+  },
   "activationEvents": [
     "onLanguage:markdown",
     "workspaceContains:**/*.md"
