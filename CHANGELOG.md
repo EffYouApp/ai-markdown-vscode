@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.14] - 2025-04-20
+
+- Made the extension open source
+
 ## [1.0.13] - 2025-04-10
 
 - Fixed bug where AI key could not be set

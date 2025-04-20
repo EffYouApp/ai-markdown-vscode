@@ -4,7 +4,7 @@
   "displayName": "AI Markdown Editor",
   "description": "A fast, high-performance AI-powered Markdown editor with a clean and simple interface for seamless editing.",
   "icon": "media/icon.png",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "engines": {
     "vscode": "^1.50.0"
   },

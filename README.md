@@ -1,6 +1,6 @@
 # AI Markdown Editor
 
-![Demo](https://i.ibb.co/WN6TZtSR/2025-02-0717-34-16-ezgif-com-optimize-1.gif)
+![Demo](https://github.com/EffYouApp/ai-markdown-vscode/blob/main/media/aimarkdown.gif?raw=true)
 
 ## About
 
